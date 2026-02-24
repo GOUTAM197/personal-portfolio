@@ -1,8 +1,8 @@
-# Sleek Portfolio by ramxcodes
+# Sleek Portfolio by G_warrior
 
 A modern, responsive portfolio website built with Next.js 15, TypeScript, Tailwind CSS, and Shadcn UI. Features a blog system, project showcase, work experience timeline, and contact form with Telegram integration.
 
-![Portfolio Preview](/public/meta/hero.png)
+![Portfolio Preview](/public/meta/CodeWarrior.png)
 
 ## Deploy
 
