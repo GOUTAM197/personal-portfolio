@@ -17,11 +17,13 @@ export const navbarConfig = {
     },
     {
       label: 'Blogs',
-      href: '/blog',
+      href: '/#',
+      disabled: true,
     },
     {
       label: 'Projects',
-      href: '/projects',
+      href: '/#',
+      disabled: true,
     },
   ] as NavItem[],
 };
